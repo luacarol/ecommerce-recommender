@@ -1,0 +1,13 @@
+# Data files (download via scripts/download_data.sh)
+data/raw/*.csv
+
+# Model artifacts
+models/*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
